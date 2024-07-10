@@ -6,10 +6,8 @@
 -------
 
 <p align="center">
-  <img 
-    src="C:\Users\Samsung\Downloads\capa artigo.png"
-    width="400
-  />
+ <img src="capa artigo.png" />
+  
 </p>
 
 # Projeto artigo técnico gerado por I.A.s
