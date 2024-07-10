@@ -7,7 +7,7 @@
 
 <p align="center">
   <img 
-    src="."C:\Users\Samsung\Downloads\Black and White Simple Photography HTML For Beginners YouTube Thumbnail.png""
+    src="."C:\Users\Samsung\Downloads\capa artigo.png"">
     width="400"  
   />
 </p>
