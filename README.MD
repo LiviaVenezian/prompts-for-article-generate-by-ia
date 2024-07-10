@@ -17,7 +17,7 @@
 
 Projeto com o objetivo de gerar um artigo técnico com um layout rico, leitura agradável e com foco em promover sua autoridade técnica.
 
-<a href="https://web.dio.me/articles/como-html-e-css-trabalham-juntos-para-criar-websites-modernos?back=%2Farticles&page=1&order=oldest📕Clique aqui para ler o artigo</a>
+<a href="https://web.dio.me/articles/como-html-e-css-trabalham-juntos-para-criar-websites-modernos?back=%2Farticles&page=1&order=oldest>📕Clique aqui para ler o artigo</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
